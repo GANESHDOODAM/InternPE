@@ -5,13 +5,6 @@ This repository contains all the tasks and mini-projects completed during my int
 
 ---
 
-📁 Repository Structure
-
-InternPE/
-├── Task/
-│ ├── file_name.py
-│ └── demo_video.mp4
-└── README.md
 
 Thanks to InternPE for this wonderful learning opportunity and mentorship throughout the internship program.
 
